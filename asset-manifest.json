@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.ea21ad80.css",
-    "main.js": "./static/js/main.fbaa535f.js",
+    "main.js": "./static/js/main.9aa1857b.js",
     "static/js/787.23170c61.chunk.js": "./static/js/787.23170c61.chunk.js",
     "static/media/IRANYekanExtraBoldFaNum.ttf": "./static/media/IRANYekanExtraBoldFaNum.4817f7554c3b644ce42c.ttf",
     "static/media/IRANYekanBoldFaNum.ttf": "./static/media/IRANYekanBoldFaNum.de140dfb8e4ea0c5a7da.ttf",
@@ -19,11 +19,11 @@
     "static/media/orders-icon.svg": "./static/media/orders-icon.b8f98315d3eec69848146ea95a480cce.svg",
     "static/media/menubar-button.svg": "./static/media/menubar-button.eb12fb31f135c3ae9e3c0914ef236d4f.svg",
     "main.ea21ad80.css.map": "./static/css/main.ea21ad80.css.map",
-    "main.fbaa535f.js.map": "./static/js/main.fbaa535f.js.map",
+    "main.9aa1857b.js.map": "./static/js/main.9aa1857b.js.map",
     "787.23170c61.chunk.js.map": "./static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea21ad80.css",
-    "static/js/main.fbaa535f.js"
+    "static/js/main.9aa1857b.js"
   ]
 }
