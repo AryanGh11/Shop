@@ -1,22 +1,29 @@
 {
   "files": {
     "main.css": "./static/css/main.ea21ad80.css",
-    "main.js": "./static/js/main.937d0227.js",
+    "main.js": "./static/js/main.fbaa535f.js",
     "static/js/787.23170c61.chunk.js": "./static/js/787.23170c61.chunk.js",
     "static/media/IRANYekanExtraBoldFaNum.ttf": "./static/media/IRANYekanExtraBoldFaNum.4817f7554c3b644ce42c.ttf",
     "static/media/IRANYekanBoldFaNum.ttf": "./static/media/IRANYekanBoldFaNum.de140dfb8e4ea0c5a7da.ttf",
-    "static/media/wallet.svg": "./static/media/wallet.2f3d9e0a463ad8e18345395473c92b22.svg",
-    "static/media/home-btn.svg": "./static/media/home-btn.5acbeea7a2887a5de3acae05072a32d0.svg",
-    "static/media/profile.svg": "./static/media/profile.cfe2eb207c6c75f3467dcf98d5a4567e.svg",
-    "static/media/menu.svg": "./static/media/menu.ca850f5552aeeea6d301448863ec75c1.svg",
+    "static/media/wallet-button.svg": "./static/media/wallet-button.e3e46b6e1cbffcd406c48e03b7c37951.svg",
+    "static/media/settings-button.svg": "./static/media/settings-button.06daf27d7be4900332e60b5e686dba89.svg",
+    "static/media/Buy-Button.svg": "./static/media/Buy-Button.94fb5e99fea2701698af82b1e1e96ea6.svg",
+    "static/media/change-picture-button.svg": "./static/media/change-picture-button.09215c06c724907ec093391097d44b88.svg",
+    "static/media/points-icon.svg": "./static/media/points-icon.17c68ef96da1a2a709508b10aebe2376.svg",
+    "static/media/contact-button.svg": "./static/media/contact-button.feb3a3d7d146d41ab38f9e24fb82b1b7.svg",
+    "static/media/succes-icon.svg": "./static/media/succes-icon.0cd10a851abb7e3e70d5d76589f65e60.svg",
+    "static/media/user-button.svg": "./static/media/user-button.65b88f084588b244264033e57e7e6ccc.svg",
     "static/media/close.svg": "./static/media/close.d600fc23e35e09371eb93f6c5d7907a9.svg",
     "index.html": "./index.html",
+    "static/media/home-button.svg": "./static/media/home-button.ecd25b70d2390a56f9bd8f75b0bb5d68.svg",
+    "static/media/orders-icon.svg": "./static/media/orders-icon.b8f98315d3eec69848146ea95a480cce.svg",
+    "static/media/menubar-button.svg": "./static/media/menubar-button.eb12fb31f135c3ae9e3c0914ef236d4f.svg",
     "main.ea21ad80.css.map": "./static/css/main.ea21ad80.css.map",
-    "main.937d0227.js.map": "./static/js/main.937d0227.js.map",
+    "main.fbaa535f.js.map": "./static/js/main.fbaa535f.js.map",
     "787.23170c61.chunk.js.map": "./static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea21ad80.css",
-    "static/js/main.937d0227.js"
+    "static/js/main.fbaa535f.js"
   ]
 }
